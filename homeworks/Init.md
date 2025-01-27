@@ -1,0 +1,1 @@
+- All the solutions are in this folder
